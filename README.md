@@ -9,10 +9,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Spring" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="maven" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
 </div>
 
 <hr>
