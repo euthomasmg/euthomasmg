@@ -11,7 +11,7 @@
   <img align="center" alt="Python" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img align="center" alt="Next.js" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/next-js-2.svg">
+  <img align="center" alt="Next.js" height="60" width="80" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="TypeScript" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 </div>
