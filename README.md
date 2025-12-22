@@ -1,10 +1,7 @@
 ## Olá, meu nome é Thomas 👋
+
 <div align="center">
-  <div>
-    <a href="https://github.com/euthomasmg">
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=euthomasmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthomasmg&layout=compact&langs_count=7&theme=dark&hide=html,css,shell,hack,scss&count_private=true&cache_seconds=86400&v=3" />
-  </div>
+  <img src="https://raw.githubusercontent.com/euthomasmg/euthomasmg/main/metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,7 +10,7 @@
   <img align="center" alt="Spring" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="Next.js" height="60" width="80" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="TypeScript" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Docker" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
 </div>
 
 <hr>
