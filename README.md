@@ -1,8 +1,16 @@
 ## Olá, meu nome é Thomas 👋
 
+## Olá, meu nome é Thomas 👋
+
 <div align="center">
-  <img src="./metrics.svg" />
+  <img height="160" src="./metrics-stats.svg" />
+  <img height="160" src="./metrics-langs.svg" />
 </div>
+
+<div align="center"><br>
+  <img height="48" src="https://skillicons.dev/icons?i=python,java,spring,nextjs,ts,docker&theme=dark" />
+</div>
+<hr>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
