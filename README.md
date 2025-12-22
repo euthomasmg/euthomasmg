@@ -1,7 +1,7 @@
 ## Olá, meu nome é Thomas 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/euthomasmg/euthomasmg/main/metrics.svg" alt="GitHub Metrics" />
+  <img src="./metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <div style="display: inline_block"><br>
