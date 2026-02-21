@@ -2,10 +2,10 @@
 
 <div align="center">
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=euthomasmg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=euthomasmg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" />
        
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=euthomasmg&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=euthomasmg&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
 <br>
